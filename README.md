@@ -1,8 +1,6 @@
 # Chang-Liu-Rochester-Job-Market-Materials
 
-Welcome to Chang Liu's Github homepage! 
-
-I'm a Ph.D. Candidate in Economics at University of Rochester.  
+Hi, my name is Chang Liu. I'm a Ph.D. Candidate in Economics at University of Rochester.
 
 I will be on the 2023-2024 job market.
 
