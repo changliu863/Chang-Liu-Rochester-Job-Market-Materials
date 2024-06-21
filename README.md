@@ -1,9 +1,7 @@
 # Chang-Liu-Rochester-Job-Market-Materials
-Last update: Dec 3, 2023
+Last update: June 21, 2024
 
-Hi, my name is Chang Liu. I'm a Ph.D. Candidate in Economics at University of Rochester.
-
-I will be on the 2023-2024 job market.
+Hi, my name is Chang Liu. 
 
 My main research fields are International Macro, Macroeconomics and Trade. 
 
@@ -12,7 +10,7 @@ In this repository, I will keep update my JMP, CV and other related materials.
 
 Contact: 
 
-    Email: changliu@rochester.edu / changliu863@gmail.com   
+    Email: changliu863@gmail.com   
                
 Website:
     https://www.changliu863.com
